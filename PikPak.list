@@ -12,4 +12,6 @@ DOMAIN,api-drive.pikpakdrive.com
 DOMAIN,access.mypikpak.com
 DOMAIN,access.mypikpak.net
 DOMAIN,access.pikpak.me
-DOMAIN,access.pikpakdrive.com
+DOMAIN,access.pikpakdrive.co
+
+hostname = mypikpak.com,mypikpak.net,pikpak.me,pikpakdrive.com
