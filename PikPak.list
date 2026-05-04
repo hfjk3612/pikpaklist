@@ -2,11 +2,11 @@
 # NAME: PikPak
 # AUTHOR: 似水年华
 # UPDATED: 2026年5月5日01:20:53
-DOMAIN-SUFFIX,mypikpak.com,PROXY
-DOMAIN-SUFFIX,dlandroid.rcv.sandai.net,PROXY
-DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net,PROXY
-DOMAIN-SUFFIX,hub5pn.wap.sandai.net,PROXY
-DOMAIN-SUFFIX,hub5pnc.sandai.net,PROXY
-DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net,PROXY
-DOMAIN-SUFFIX,hubciddata.sandai.net,PROXY
-DOMAIN-KEYWORD,mypikpak,PROXY
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-KEYWORD,mypikpak
