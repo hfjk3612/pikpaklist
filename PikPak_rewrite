@@ -1,0 +1,10 @@
+# > PikPak_rewrite
+# NAME: PikPak_rewrite
+# AUTHOR: 似水年华
+# UPDATED: 2026年5月5日01:56:58
+[rewrite_local]
+^https?:\/\/(dl-a10b-\d+\.mypikpak\.com)(\/download\/.*)$ url 302 https://pikpak.16880813.xyz/$1$2
+^https?:\/\/(dl-z01a-\d+\.mypikpak\.com)(\/download\/.*)$ url 302 https://pikpak.16880813.xyz/$1$2
+
+[mitm]
+hostname = dl-a10b-*.mypikpak.com, dl-z01a-*.mypikpak.com
